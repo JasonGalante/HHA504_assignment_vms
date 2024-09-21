@@ -1,7 +1,4 @@
-#  The setup options varied slightly between GCP and Azure making 100% direct comparisons difficult, Azure seemed to be the more expensive of the 2
-# coming in at 0.096/hr vs GCPs 0.03/hr.  With more familiarization of available options it may be possible to close the price gap.
-# Starting and stoppping each VM was similarly easy, but initial setup was easier on Azure.  I also find azure a little easier to navigate, 
-# when looking for a previous created VM to connect to, but that may be due to me being unfamiliar with the program
+#  The setup options varied slightly between GCP and Azure making 100% direct comparisons difficult, Azure seemed to be the more expensive of the 2 coming in at 0.096/hr vs GCPs 0.03/hr.  With more familiarization of available options it may be possible to close the price gap.  Starting and stoppping each VM was similarly easy, but initial setup was easier on Azure.  I also find azure a little easier to navigate, when looking for a previous created VM to connect to, but that may be due to me being unfamiliar with the program.
  
 
 ![Azure VM Create](https://github.com/user-attachments/assets/207187d4-1d62-4fa8-8d15-aab111d27e8c)
